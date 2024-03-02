@@ -10,9 +10,8 @@ The goal is to provide a quickstart in different topics around AI and as referen
 
 ## Content
 
-This is the top-level directory containing structured directories for ai relevant quickstart templates.
-
-* [01 Machine-Learning](/01_machine_learning) 
+* [00 Reference Book](/docs/00_reference_book)
+* [01 Machine-Learning](/docs/01_machine_learning) 
 
 <br/><br/>
 

@@ -1,8 +1,5 @@
 # 01 Machine Learning
 
-This section contains information round about Machine Learning.
-<br/><br/>
-
 ## Content
 
 * [01 PyTorch Machine Learning Basics](01_pytorch_ml_basics.ipynb) 
